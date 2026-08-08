@@ -129,3 +129,4 @@ antd.variable.css
 scripts/.payment-dev-secrets.env
 scripts/.onprem-dev-secrets.env
 scripts/.onprem-dev-keys/
+config.bat
